@@ -1,0 +1,24 @@
+//コメント入り。参考用です。これは使えません。
+{
+  //Consumer API keys (API key)
+  "ConsumerKey": "ConsumerKey",
+  //Consumer API keys (API secret key)
+  "ConsumerSecret": "Consumer API keys",
+  //Access token & access token secret  (Access token)
+  "AccessToken": "Access token",
+  //Access token & access token secret  (Access token secret)
+  "AccessSecret": "Access token secret",
+  //取得インターバル 秒単位*1000 
+  //最低でも2秒程度の間隔で処理しないと動きません。
+  "sleeptime": 2000,
+  //取得ID数 MAX 5000
+  "parm_count": 1,
+  //The screen name of the user for whom to return results.
+  "parm_screen_name": "@retar_jp",
+  //GetDeleteUserListFile ユーザー削除リストファイル
+  "GetUserListFile": "GetUserListFile.csv",
+  //getFriendshiptype フォローするか、外すか Create / Destroy
+  "GetFriendshiptype": "Create",
+  //GetScreennameOrUID  user_id / screen_name
+  "GetScreennameOrUID": "user_id"
+}

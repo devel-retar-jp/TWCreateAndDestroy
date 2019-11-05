@@ -1,0 +1,11 @@
+{
+  "ConsumerKey": "ConsumerKey",
+  "ConsumerSecret": "Consumer API keys",
+  "AccessToken": "Access token",
+  "AccessSecret": "Access token secret",
+  "sleeptime": 2000,
+  "parm_screen_name": "@retar_jp",
+  "GetUserListFile": "GetUserListFile.csv",
+  "GetFriendshiptype": "Create",
+  "GetScreennameOrUID": "user_id"
+}

@@ -11,8 +11,6 @@
   //取得インターバル 秒単位*1000 
   //最低でも2秒程度の間隔で処理しないと動きません。
   "sleeptime": 2000,
-  //取得ID数 MAX 5000
-  "parm_count": 1,
   //The screen name of the user for whom to return results.
   "parm_screen_name": "@retar_jp",
   //GetDeleteUserListFile ユーザー削除リストファイル
